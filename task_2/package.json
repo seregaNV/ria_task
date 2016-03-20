@@ -1,0 +1,28 @@
+{
+  "name": "task_2",
+  "version": "1.0.0",
+  "description": "the first task on node js",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seregaNV/ria_tasks/tree/master/lesson2"
+  },
+  "keywords": [
+    "JS",
+    "server",
+    "nodeJS"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "author": "Sergey Nagorniy <serega.n.v333@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}

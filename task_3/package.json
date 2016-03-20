@@ -1,0 +1,30 @@
+{
+  "name": "task_3",
+  "version": "1.0.0",
+  "description": "Work with GET, POST requests",
+  "main": "index.js",
+  "dependencies": {
+    "ect": "^0.5.9",
+    "validator": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seregaNV/ria_tasks/tree/master/lesson3"
+  },
+  "keywords": [
+    "JS",
+    "server",
+    "nodeJS"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "author": "Sergey Nagorniy <serega.n.v333@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/seregaNV/ria_tasks/tree/master/lesson3"
+}
