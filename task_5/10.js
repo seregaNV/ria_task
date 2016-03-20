@@ -11,7 +11,7 @@ for (var i = 0; i < addresses.length; i++) {
     result.push(address);
  }
 
-console.log(result);
+//console.log(result);
 
 module.exports = result;
 
