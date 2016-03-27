@@ -1,0 +1,6 @@
+
+modules/main.js
+----------------
+modules/partials/checkStorage.js
+modules/partials/clickHandler.js
+modules/main.js

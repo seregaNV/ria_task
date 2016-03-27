@@ -1,0 +1,1 @@
+define("checkStorage",[],function(){try{return"localStorage"in window&&null!==window.localStorage}catch(o){return console.error("LocalStorage is not supported."),!1}});

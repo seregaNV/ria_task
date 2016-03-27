@@ -1,0 +1,23 @@
+{
+  "name": "require",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Andrii Priadko"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "requirejs": "^2.1.22",
+    "underscore": "^1.8.3"
+  }
+}
